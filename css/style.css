@@ -4123,9 +4123,11 @@ h6 {
 }
 
 .footer-bottom .footer-social {
-  text-align: left;
-  position: absolute;
-  top: 610%;
+ 
+  position: relative;
+  bottom: 60px;
+  left: -785px;
+ 
 
 }
 
@@ -4169,17 +4171,19 @@ h6 {
 }
 
 #divWhatss{
-position: absolute;
-  position: center;
-  top: 610%;
-  left: 18%;
+position: relative;
+  
+ bottom: 110px;
+ left: 140px;
+  z-index:1;
 }
 
 #NumeroDeKarenOSergio{
-  top: 610%;
-  position: absolute;
-  left: 22%;
-  position: center;
+ position: relative;
+  bottom: 40px;
+ left: 60px;
+  z-index:1;
+ 
 }
 
 #fawhatssap{
